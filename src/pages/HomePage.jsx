@@ -1,9 +1,9 @@
-import Navbar from "../components/Navbar";
+import TodoLayout from "../layouts/TodoLayout";
 
 function HomePage() {
   return (
     <>
-      <Navbar />
+      <TodoLayout />
     </>
   );
 }
