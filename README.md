@@ -1,15 +1,14 @@
-```markdown
 # Aplikasi Todo List dengan React
 
 ## Daftar Isi
-- [Ikhtisar](#ikhtisar)
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Struktur Proyek](#struktur-proyek)
-- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+- [Aplikasi Todo List dengan React](#aplikasi-todo-list-dengan-react)
+  - [Daftar Isi](#daftar-isi)
+  - [Ikhtisar](#ikhtisar)
+  - [Fitur](#fitur)
+  - [Instalasi](#instalasi)
+  - [Penggunaan](#penggunaan)
+  - [Struktur Proyek](#struktur-proyek)
+  - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 
 ## Ikhtisar
 Ini adalah aplikasi **Todo List** sederhana yang dibangun dengan React. Proyek ini dirancang sebagai latihan untuk membantu kamu memahami dasar-dasar React, termasuk manajemen state, struktur komponen, dan penanganan event.
@@ -28,7 +27,6 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
    ```bash
    git clone https://github.com/daffafznnn/task-manager-app-react.git
    ```
-   Gantilah `username/repo` dengan URL repositori GitHub kamu.
 
 2. **Masuk ke direktori proyek:**
    ```bash
